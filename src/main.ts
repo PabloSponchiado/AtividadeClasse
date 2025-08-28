@@ -23,19 +23,6 @@ livro2.ler();
 livro1.exibirDetalhes();
 livro2.exibirDetalhes();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 import Carro from "./Carro.js";
 
 let carro1: Carro = new Carro("Toyota Corolla", 2020, "Prata");
